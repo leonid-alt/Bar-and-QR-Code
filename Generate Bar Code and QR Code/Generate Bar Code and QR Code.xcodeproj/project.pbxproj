@@ -1,0 +1,597 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B3C1D07921FD629200619B46 /* Icone-iOS7_29.png in Resources */ = {isa = PBXBuildFile; fileRef = B3C1D06721FD629200619B46 /* Icone-iOS7_29.png */; };
+		B3C1D07A21FD629200619B46 /* Icone-iOS7_40.png in Resources */ = {isa = PBXBuildFile; fileRef = B3C1D06821FD629200619B46 /* Icone-iOS7_40.png */; };
+		B3C1D07B21FD629200619B46 /* Icone-iOS7_48.png in Resources */ = {isa = PBXBuildFile; fileRef = B3C1D06921FD629200619B46 /* Icone-iOS7_48.png */; };
+		B3C1D07C21FD629200619B46 /* Icone-iOS7_50.png in Resources */ = {isa = PBXBuildFile; fileRef = B3C1D06A21FD629200619B46 /* Icone-iOS7_50.png */; };
+		B3C1D07D21FD629200619B46 /* Icone-iOS7_57.png in Resources */ = {isa = PBXBuildFile; fileRef = B3C1D06B21FD629200619B46 /* Icone-iOS7_57.png */; };
+		B3C1D07E21FD629200619B46 /* Icone-iOS7_58.png in Resources */ = {isa = PBXBuildFile; fileRef = B3C1D06C21FD629200619B46 /* Icone-iOS7_58.png */; };
+		B3C1D07F21FD629200619B46 /* Icone-iOS7_72.png in Resources */ = {isa = PBXBuildFile; fileRef = B3C1D06D21FD629200619B46 /* Icone-iOS7_72.png */; };
+		B3C1D08021FD629200619B46 /* Icone-iOS7_76.png in Resources */ = {isa = PBXBuildFile; fileRef = B3C1D06E21FD629200619B46 /* Icone-iOS7_76.png */; };
+		B3C1D08121FD629200619B46 /* Icone-iOS7_80.png in Resources */ = {isa = PBXBuildFile; fileRef = B3C1D06F21FD629200619B46 /* Icone-iOS7_80.png */; };
+		B3C1D08221FD629200619B46 /* Icone-iOS7_87.png in Resources */ = {isa = PBXBuildFile; fileRef = B3C1D07021FD629200619B46 /* Icone-iOS7_87.png */; };
+		B3C1D08321FD629200619B46 /* Icone-iOS7_100.png in Resources */ = {isa = PBXBuildFile; fileRef = B3C1D07121FD629200619B46 /* Icone-iOS7_100.png */; };
+		B3C1D08421FD629200619B46 /* Icone-iOS7_114.png in Resources */ = {isa = PBXBuildFile; fileRef = B3C1D07221FD629200619B46 /* Icone-iOS7_114.png */; };
+		B3C1D08521FD629200619B46 /* Icone-iOS7_120.png in Resources */ = {isa = PBXBuildFile; fileRef = B3C1D07321FD629200619B46 /* Icone-iOS7_120.png */; };
+		B3C1D08621FD629200619B46 /* Icone-iOS7_144.png in Resources */ = {isa = PBXBuildFile; fileRef = B3C1D07421FD629200619B46 /* Icone-iOS7_144.png */; };
+		B3C1D08721FD629200619B46 /* Icone-iOS7_152.png in Resources */ = {isa = PBXBuildFile; fileRef = B3C1D07521FD629200619B46 /* Icone-iOS7_152.png */; };
+		B3C1D08821FD629200619B46 /* Icone-iOS7_167.png in Resources */ = {isa = PBXBuildFile; fileRef = B3C1D07621FD629200619B46 /* Icone-iOS7_167.png */; };
+		B3C1D08921FD629200619B46 /* Icone-iOS7_180.png in Resources */ = {isa = PBXBuildFile; fileRef = B3C1D07721FD629200619B46 /* Icone-iOS7_180.png */; };
+		B3C1D08A21FD629200619B46 /* Icone-iOS7_1024.png in Resources */ = {isa = PBXBuildFile; fileRef = B3C1D07821FD629200619B46 /* Icone-iOS7_1024.png */; };
+		C25A7C6020CD446100C487CB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25A7C5F20CD446100C487CB /* AppDelegate.swift */; };
+		C25A7C6220CD446100C487CB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25A7C6120CD446100C487CB /* ViewController.swift */; };
+		C25A7C6520CD446100C487CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25A7C6320CD446100C487CB /* Main.storyboard */; };
+		C25A7C6720CD446100C487CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25A7C6620CD446100C487CB /* Assets.xcassets */; };
+		C25A7C6A20CD446100C487CB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C25A7C6820CD446100C487CB /* LaunchScreen.storyboard */; };
+		C25A7C7520CD446100C487CB /* Generate_Bar_Code_and_QR_CodeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25A7C7420CD446100C487CB /* Generate_Bar_Code_and_QR_CodeTests.swift */; };
+		C25A7C8020CD446100C487CB /* Generate_Bar_Code_and_QR_CodeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25A7C7F20CD446100C487CB /* Generate_Bar_Code_and_QR_CodeUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		C25A7C7120CD446100C487CB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C25A7C5420CD446100C487CB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C25A7C5B20CD446100C487CB;
+			remoteInfo = "Generate Bar Code and QR Code";
+		};
+		C25A7C7C20CD446100C487CB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C25A7C5420CD446100C487CB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C25A7C5B20CD446100C487CB;
+			remoteInfo = "Generate Bar Code and QR Code";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		B3C1D06721FD629200619B46 /* Icone-iOS7_29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icone-iOS7_29.png"; sourceTree = "<group>"; };
+		B3C1D06821FD629200619B46 /* Icone-iOS7_40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icone-iOS7_40.png"; sourceTree = "<group>"; };
+		B3C1D06921FD629200619B46 /* Icone-iOS7_48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icone-iOS7_48.png"; sourceTree = "<group>"; };
+		B3C1D06A21FD629200619B46 /* Icone-iOS7_50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icone-iOS7_50.png"; sourceTree = "<group>"; };
+		B3C1D06B21FD629200619B46 /* Icone-iOS7_57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icone-iOS7_57.png"; sourceTree = "<group>"; };
+		B3C1D06C21FD629200619B46 /* Icone-iOS7_58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icone-iOS7_58.png"; sourceTree = "<group>"; };
+		B3C1D06D21FD629200619B46 /* Icone-iOS7_72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icone-iOS7_72.png"; sourceTree = "<group>"; };
+		B3C1D06E21FD629200619B46 /* Icone-iOS7_76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icone-iOS7_76.png"; sourceTree = "<group>"; };
+		B3C1D06F21FD629200619B46 /* Icone-iOS7_80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icone-iOS7_80.png"; sourceTree = "<group>"; };
+		B3C1D07021FD629200619B46 /* Icone-iOS7_87.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icone-iOS7_87.png"; sourceTree = "<group>"; };
+		B3C1D07121FD629200619B46 /* Icone-iOS7_100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icone-iOS7_100.png"; sourceTree = "<group>"; };
+		B3C1D07221FD629200619B46 /* Icone-iOS7_114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icone-iOS7_114.png"; sourceTree = "<group>"; };
+		B3C1D07321FD629200619B46 /* Icone-iOS7_120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icone-iOS7_120.png"; sourceTree = "<group>"; };
+		B3C1D07421FD629200619B46 /* Icone-iOS7_144.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icone-iOS7_144.png"; sourceTree = "<group>"; };
+		B3C1D07521FD629200619B46 /* Icone-iOS7_152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icone-iOS7_152.png"; sourceTree = "<group>"; };
+		B3C1D07621FD629200619B46 /* Icone-iOS7_167.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icone-iOS7_167.png"; sourceTree = "<group>"; };
+		B3C1D07721FD629200619B46 /* Icone-iOS7_180.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icone-iOS7_180.png"; sourceTree = "<group>"; };
+		B3C1D07821FD629200619B46 /* Icone-iOS7_1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icone-iOS7_1024.png"; sourceTree = "<group>"; };
+		C25A7C5C20CD446100C487CB /* Generate Bar Code and QR Code.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Generate Bar Code and QR Code.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C25A7C5F20CD446100C487CB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		C25A7C6120CD446100C487CB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		C25A7C6420CD446100C487CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C25A7C6620CD446100C487CB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C25A7C6920CD446100C487CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C25A7C6B20CD446100C487CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C25A7C7020CD446100C487CB /* Generate Bar Code and QR CodeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Generate Bar Code and QR CodeTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C25A7C7420CD446100C487CB /* Generate_Bar_Code_and_QR_CodeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Generate_Bar_Code_and_QR_CodeTests.swift; sourceTree = "<group>"; };
+		C25A7C7620CD446100C487CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C25A7C7B20CD446100C487CB /* Generate Bar Code and QR CodeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Generate Bar Code and QR CodeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C25A7C7F20CD446100C487CB /* Generate_Bar_Code_and_QR_CodeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Generate_Bar_Code_and_QR_CodeUITests.swift; sourceTree = "<group>"; };
+		C25A7C8120CD446100C487CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C25A7C5920CD446100C487CB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C25A7C6D20CD446100C487CB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C25A7C7820CD446100C487CB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B3C1D06621FD5EFB00619B46 /* Icons */ = {
+			isa = PBXGroup;
+			children = (
+				B3C1D06721FD629200619B46 /* Icone-iOS7_29.png */,
+				B3C1D06821FD629200619B46 /* Icone-iOS7_40.png */,
+				B3C1D06921FD629200619B46 /* Icone-iOS7_48.png */,
+				B3C1D06A21FD629200619B46 /* Icone-iOS7_50.png */,
+				B3C1D06B21FD629200619B46 /* Icone-iOS7_57.png */,
+				B3C1D06C21FD629200619B46 /* Icone-iOS7_58.png */,
+				B3C1D06D21FD629200619B46 /* Icone-iOS7_72.png */,
+				B3C1D06E21FD629200619B46 /* Icone-iOS7_76.png */,
+				B3C1D06F21FD629200619B46 /* Icone-iOS7_80.png */,
+				B3C1D07021FD629200619B46 /* Icone-iOS7_87.png */,
+				B3C1D07121FD629200619B46 /* Icone-iOS7_100.png */,
+				B3C1D07221FD629200619B46 /* Icone-iOS7_114.png */,
+				B3C1D07321FD629200619B46 /* Icone-iOS7_120.png */,
+				B3C1D07421FD629200619B46 /* Icone-iOS7_144.png */,
+				B3C1D07521FD629200619B46 /* Icone-iOS7_152.png */,
+				B3C1D07621FD629200619B46 /* Icone-iOS7_167.png */,
+				B3C1D07721FD629200619B46 /* Icone-iOS7_180.png */,
+				B3C1D07821FD629200619B46 /* Icone-iOS7_1024.png */,
+			);
+			path = Icons;
+			sourceTree = "<group>";
+		};
+		C25A7C5320CD446100C487CB = {
+			isa = PBXGroup;
+			children = (
+				C25A7C5E20CD446100C487CB /* Generate Bar Code and QR Code */,
+				C25A7C7320CD446100C487CB /* Generate Bar Code and QR CodeTests */,
+				C25A7C7E20CD446100C487CB /* Generate Bar Code and QR CodeUITests */,
+				C25A7C5D20CD446100C487CB /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C25A7C5D20CD446100C487CB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C25A7C5C20CD446100C487CB /* Generate Bar Code and QR Code.app */,
+				C25A7C7020CD446100C487CB /* Generate Bar Code and QR CodeTests.xctest */,
+				C25A7C7B20CD446100C487CB /* Generate Bar Code and QR CodeUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C25A7C5E20CD446100C487CB /* Generate Bar Code and QR Code */ = {
+			isa = PBXGroup;
+			children = (
+				B3C1D06621FD5EFB00619B46 /* Icons */,
+				C25A7C5F20CD446100C487CB /* AppDelegate.swift */,
+				C25A7C6120CD446100C487CB /* ViewController.swift */,
+				C25A7C6320CD446100C487CB /* Main.storyboard */,
+				C25A7C6620CD446100C487CB /* Assets.xcassets */,
+				C25A7C6820CD446100C487CB /* LaunchScreen.storyboard */,
+				C25A7C6B20CD446100C487CB /* Info.plist */,
+			);
+			path = "Generate Bar Code and QR Code";
+			sourceTree = "<group>";
+		};
+		C25A7C7320CD446100C487CB /* Generate Bar Code and QR CodeTests */ = {
+			isa = PBXGroup;
+			children = (
+				C25A7C7420CD446100C487CB /* Generate_Bar_Code_and_QR_CodeTests.swift */,
+				C25A7C7620CD446100C487CB /* Info.plist */,
+			);
+			path = "Generate Bar Code and QR CodeTests";
+			sourceTree = "<group>";
+		};
+		C25A7C7E20CD446100C487CB /* Generate Bar Code and QR CodeUITests */ = {
+			isa = PBXGroup;
+			children = (
+				C25A7C7F20CD446100C487CB /* Generate_Bar_Code_and_QR_CodeUITests.swift */,
+				C25A7C8120CD446100C487CB /* Info.plist */,
+			);
+			path = "Generate Bar Code and QR CodeUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C25A7C5B20CD446100C487CB /* Generate Bar Code and QR Code */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C25A7C8420CD446100C487CB /* Build configuration list for PBXNativeTarget "Generate Bar Code and QR Code" */;
+			buildPhases = (
+				C25A7C5820CD446100C487CB /* Sources */,
+				C25A7C5920CD446100C487CB /* Frameworks */,
+				C25A7C5A20CD446100C487CB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Generate Bar Code and QR Code";
+			productName = "Generate Bar Code and QR Code";
+			productReference = C25A7C5C20CD446100C487CB /* Generate Bar Code and QR Code.app */;
+			productType = "com.apple.product-type.application";
+		};
+		C25A7C6F20CD446100C487CB /* Generate Bar Code and QR CodeTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C25A7C8720CD446100C487CB /* Build configuration list for PBXNativeTarget "Generate Bar Code and QR CodeTests" */;
+			buildPhases = (
+				C25A7C6C20CD446100C487CB /* Sources */,
+				C25A7C6D20CD446100C487CB /* Frameworks */,
+				C25A7C6E20CD446100C487CB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C25A7C7220CD446100C487CB /* PBXTargetDependency */,
+			);
+			name = "Generate Bar Code and QR CodeTests";
+			productName = "Generate Bar Code and QR CodeTests";
+			productReference = C25A7C7020CD446100C487CB /* Generate Bar Code and QR CodeTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		C25A7C7A20CD446100C487CB /* Generate Bar Code and QR CodeUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C25A7C8A20CD446100C487CB /* Build configuration list for PBXNativeTarget "Generate Bar Code and QR CodeUITests" */;
+			buildPhases = (
+				C25A7C7720CD446100C487CB /* Sources */,
+				C25A7C7820CD446100C487CB /* Frameworks */,
+				C25A7C7920CD446100C487CB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C25A7C7D20CD446100C487CB /* PBXTargetDependency */,
+			);
+			name = "Generate Bar Code and QR CodeUITests";
+			productName = "Generate Bar Code and QR CodeUITests";
+			productReference = C25A7C7B20CD446100C487CB /* Generate Bar Code and QR CodeUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C25A7C5420CD446100C487CB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = "Leonid Stepanov";
+				TargetAttributes = {
+					C25A7C5B20CD446100C487CB = {
+						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = UPQ52DHX55;
+					};
+					C25A7C6F20CD446100C487CB = {
+						CreatedOnToolsVersion = 7.3.1;
+						TestTargetID = C25A7C5B20CD446100C487CB;
+					};
+					C25A7C7A20CD446100C487CB = {
+						CreatedOnToolsVersion = 7.3.1;
+						TestTargetID = C25A7C5B20CD446100C487CB;
+					};
+				};
+			};
+			buildConfigurationList = C25A7C5720CD446100C487CB /* Build configuration list for PBXProject "Generate Bar Code and QR Code" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C25A7C5320CD446100C487CB;
+			productRefGroup = C25A7C5D20CD446100C487CB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C25A7C5B20CD446100C487CB /* Generate Bar Code and QR Code */,
+				C25A7C6F20CD446100C487CB /* Generate Bar Code and QR CodeTests */,
+				C25A7C7A20CD446100C487CB /* Generate Bar Code and QR CodeUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C25A7C5A20CD446100C487CB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B3C1D08621FD629200619B46 /* Icone-iOS7_144.png in Resources */,
+				B3C1D08121FD629200619B46 /* Icone-iOS7_80.png in Resources */,
+				B3C1D07B21FD629200619B46 /* Icone-iOS7_48.png in Resources */,
+				C25A7C6A20CD446100C487CB /* LaunchScreen.storyboard in Resources */,
+				C25A7C6720CD446100C487CB /* Assets.xcassets in Resources */,
+				B3C1D08521FD629200619B46 /* Icone-iOS7_120.png in Resources */,
+				B3C1D08921FD629200619B46 /* Icone-iOS7_180.png in Resources */,
+				B3C1D08321FD629200619B46 /* Icone-iOS7_100.png in Resources */,
+				C25A7C6520CD446100C487CB /* Main.storyboard in Resources */,
+				B3C1D07D21FD629200619B46 /* Icone-iOS7_57.png in Resources */,
+				B3C1D08A21FD629200619B46 /* Icone-iOS7_1024.png in Resources */,
+				B3C1D08721FD629200619B46 /* Icone-iOS7_152.png in Resources */,
+				B3C1D08421FD629200619B46 /* Icone-iOS7_114.png in Resources */,
+				B3C1D07A21FD629200619B46 /* Icone-iOS7_40.png in Resources */,
+				B3C1D07E21FD629200619B46 /* Icone-iOS7_58.png in Resources */,
+				B3C1D07C21FD629200619B46 /* Icone-iOS7_50.png in Resources */,
+				B3C1D07921FD629200619B46 /* Icone-iOS7_29.png in Resources */,
+				B3C1D08221FD629200619B46 /* Icone-iOS7_87.png in Resources */,
+				B3C1D08821FD629200619B46 /* Icone-iOS7_167.png in Resources */,
+				B3C1D07F21FD629200619B46 /* Icone-iOS7_72.png in Resources */,
+				B3C1D08021FD629200619B46 /* Icone-iOS7_76.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C25A7C6E20CD446100C487CB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C25A7C7920CD446100C487CB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C25A7C5820CD446100C487CB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C25A7C6220CD446100C487CB /* ViewController.swift in Sources */,
+				C25A7C6020CD446100C487CB /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C25A7C6C20CD446100C487CB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C25A7C7520CD446100C487CB /* Generate_Bar_Code_and_QR_CodeTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C25A7C7720CD446100C487CB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C25A7C8020CD446100C487CB /* Generate_Bar_Code_and_QR_CodeUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		C25A7C7220CD446100C487CB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C25A7C5B20CD446100C487CB /* Generate Bar Code and QR Code */;
+			targetProxy = C25A7C7120CD446100C487CB /* PBXContainerItemProxy */;
+		};
+		C25A7C7D20CD446100C487CB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C25A7C5B20CD446100C487CB /* Generate Bar Code and QR Code */;
+			targetProxy = C25A7C7C20CD446100C487CB /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		C25A7C6320CD446100C487CB /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C25A7C6420CD446100C487CB /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		C25A7C6820CD446100C487CB /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C25A7C6920CD446100C487CB /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C25A7C8220CD446100C487CB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		C25A7C8320CD446100C487CB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C25A7C8520CD446100C487CB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = "Generate Bar Code and QR Code/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.stepanov.Generate-Bar-Code-and-QR-Code";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+			};
+			name = Debug;
+		};
+		C25A7C8620CD446100C487CB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = "Generate Bar Code and QR Code/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.stepanov.Generate-Bar-Code-and-QR-Code";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+			};
+			name = Release;
+		};
+		C25A7C8820CD446100C487CB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "Generate Bar Code and QR CodeTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.stepanov.Generate-Bar-Code-and-QR-CodeTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Generate Bar Code and QR Code.app/Generate Bar Code and QR Code";
+			};
+			name = Debug;
+		};
+		C25A7C8920CD446100C487CB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "Generate Bar Code and QR CodeTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.stepanov.Generate-Bar-Code-and-QR-CodeTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Generate Bar Code and QR Code.app/Generate Bar Code and QR Code";
+			};
+			name = Release;
+		};
+		C25A7C8B20CD446100C487CB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "Generate Bar Code and QR CodeUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.stepanov.Generate-Bar-Code-and-QR-CodeUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = "Generate Bar Code and QR Code";
+			};
+			name = Debug;
+		};
+		C25A7C8C20CD446100C487CB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "Generate Bar Code and QR CodeUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.stepanov.Generate-Bar-Code-and-QR-CodeUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = "Generate Bar Code and QR Code";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C25A7C5720CD446100C487CB /* Build configuration list for PBXProject "Generate Bar Code and QR Code" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C25A7C8220CD446100C487CB /* Debug */,
+				C25A7C8320CD446100C487CB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C25A7C8420CD446100C487CB /* Build configuration list for PBXNativeTarget "Generate Bar Code and QR Code" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C25A7C8520CD446100C487CB /* Debug */,
+				C25A7C8620CD446100C487CB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C25A7C8720CD446100C487CB /* Build configuration list for PBXNativeTarget "Generate Bar Code and QR CodeTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C25A7C8820CD446100C487CB /* Debug */,
+				C25A7C8920CD446100C487CB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C25A7C8A20CD446100C487CB /* Build configuration list for PBXNativeTarget "Generate Bar Code and QR CodeUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C25A7C8B20CD446100C487CB /* Debug */,
+				C25A7C8C20CD446100C487CB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C25A7C5420CD446100C487CB /* Project object */;
+}
